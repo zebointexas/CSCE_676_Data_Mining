@@ -2,3 +2,4 @@
 
 https://sites.google.com/view/socialresponsibility/ 
 
+<a href=https://sites.google.com/view/socialresponsibility/ />HubSpot Blog</a>
