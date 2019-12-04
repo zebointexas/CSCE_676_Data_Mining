@@ -1,5 +1,5 @@
 # CSCE_676_Data_Mining
 
-https://sites.google.com/view/socialresponsibility/ 
+<iframe src="https://sites.google.com/view/socialresponsibility/"></iframe> 
 
-<a href=https://sites.google.com/view/socialresponsibility/ />HubSpot Blog</a>
+ 
