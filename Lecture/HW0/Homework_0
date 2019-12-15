@@ -1,0 +1,73 @@
+Homework 0 is OUT! Due: September 2 (Monday) by 11:59pm
+Howdy 676ers --
+
+ 
+
+We have just posted Homework 0 here on Piazza over in the "Resources" tab. There you will find a Jupyter notebook. Instructions below on how to set up your environment. Submission is via ecampus.
+
+ 
+
+Due: September 2 (Monday) by 11:59pm
+
+ 
+
+Note that this is supposed to be a stress-free homework. For this starter homework, we will only check that you have submitted a notebook with at least some code to ecampus. We will not check for completeness or correctness. Basically, do your best and submit = 100.
+
+ 
+
+===
+
+We're going to use Python 3.7 (and a bunch of helpful libraries) using Anaconda. Anaconda advertises itself as "the leading open data science platform powered by Python." 
+
+ 
+Let's start by downloading the latest version of Anaconda: 
+ 
+https://www.continuum.io/downloads
+ 
+Make sure to grab the Python 3.7 version (not the Python 2.7 one). You should find installers for Windows, Mac, and Linux.
+ 
+Once you install, you should find that the path to your python installation looks like:
+ 
+# from a terminal window
+>> which python
+ 
+# you'll see something like:
+/Users/caverlee/anaconda/bin/python
+ 
+# Create environment for our class
+>> conda create --name cs676 python=3.7
+ 
+# see list of our environments
+>> conda info --envs
+ 
+# update packages in this environment
+>> conda install --name cs676 matplotlib
+>> conda install --name cs676 jupyter
+>> conda install --name cs676 requests
+>> conda install --name cs676 beautifulsoup4
+>> conda install --name cs676 seaborn
+# plus many others that we'll install later in the semester.
+ 
+# switch over to our new environment before you start coding
+# you will see (cs676) now
+>> source activate cs676
+ 
+# In Windows, the commands are "activate cs676" and "deactivate"
+ 
+# Use jupyter (newer re-branded version of ipython) like so:
+>> jupyter notebook 
+ 
+# Or you can start a blank notebook with:
+>> jupyter notebook
+ 
+# then you can save it from the menubar inside jupyter
+ 
+# when you are done and close out jupyter, you can deactivate the current environment
+>> source deactivate
+# You can find more info on conda here: http://conda.pydata.org/docs/using/pkgs.html
+====
+Feel free to post here if you have any issues.
+ 
+
+Cav
+

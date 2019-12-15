@@ -1,0 +1,34 @@
+• 10 points: Interestingness and clarity of question you ask
+• 20 points: Appropriateness of data, scale, and other viz design choices
+• 10 points: Legends, context, and titles of your viz
+• 20 points: Overall quality of your viz: in the extreme, every pixel serves a
+purpose
+• 20 points: Design rationale (writeup)
+• 20 points: Pros and cons of your design (writeup)
+
+************************************************
+Assume your friend has a daughter who finished her high school. She has none interest on math and engineering. You helped your friend to analysis the art majors and give some insights for your friend to choose a major in college – considering the interest and future employment opportunities. 
+
+Totally 27 art majored were analysed. There are from three major field: Arts, Humanities & Liberal Arts, Communications & Journalism. 
+
+From the image result, we see below information:  
+
+1.	Some majors such as Commercial Art may lead college students to find jobs with relative higher salary. However, this major tend to let student find part-time jobs. And some student (around 20%) even can only find job with low wage. We can see the major lead people to two different categories. 
+2.	Lower income does not mean unstable career. Instead, some majors with lower income actually have more full-time opportunities. For example, Drama and Theater Arts and Theology and Religious Vocations.
+3.	60% of the student in these majors are female. 
+4.	Half of these majors belongs to “Humanities & Liberal Arts” filed.
+5.	The trend here is: higher income brings higher chance of unstable jobs (part-time)
+6.	Some majors have some obvious employment disadvantages, such as:  
+-	Composition and Rhetoric: lowest income with highest low-wage job rate (20%).  
+-	Inter-culture and international studies: 46% chance to get part-time job only 
+7.	Some majors seems have good balance among income, part-time job rate and low wage rate: 
+-	Advertising and public relations
+-	Communications 
+-	Philosophy and religious studies
+
+Pros and cons of your design: 
+-	Pros: chart with different markers; separate pie charts; and with big arrow to indicate the income trend; easy to find majors which has good balance among different aspects 
+-	cons: did not further present the grouping for three different field (Arts, Humanities & Liberal Arts, Communications & Journalism); did not reveal how female distribution related the part-time job rate; did not consider the sample size for each major
+
+
+
